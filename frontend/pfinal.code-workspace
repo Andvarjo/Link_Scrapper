@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Link_scrapper/Link_scrapper-master/backend"
+		},
+		{
+			"path": "../.."
+		}
+	]
+}
